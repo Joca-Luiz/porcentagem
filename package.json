@@ -1,0 +1,19 @@
+{
+  "name": "porcentagem",
+  "version": "1.0.0",
+  "description": "Site de converção de porcentagem",
+  "main": "script.js",
+  "scripts": {
+    "test": "start index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joca-Luiz/porcentagem.git"
+  },
+  "author": "Joca Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joca-Luiz/porcentagem/issues"
+  },
+  "homepage": "https://github.com/Joca-Luiz/porcentagem#readme"
+}

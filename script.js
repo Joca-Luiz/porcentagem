@@ -41,7 +41,7 @@ form.appendChild(partInput);
 const caucButton = document.createElement("input");
 caucButton.type = "button";
 caucButton.className = "button";
-caucButton.value = "Caucular";
+caucButton.value = "Calcular";
 caucButton.addEventListener("click", () => {active()}, false);
 form.appendChild(caucButton);
 
